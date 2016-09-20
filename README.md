@@ -18,7 +18,7 @@ Curated list of resources for design, development and process in the newsroom.
 
 ## Mapping
 
-- [rMaps Interactive Maps from R](http://rmaps.github.io/)
+- [rMaps Interactive Maps from R](http://rmaps.github.io/): makes it easy to create, customize and share interactive maps from R
 - [Datamaps.js](http://datamaps.github.io/)
 - [Mapstarter](http://mapstarter.com/)
 - [Awesome Base Layers](http://felix.rohrba.ch/en/2016/awesome-basemap-layer-for-your-qgis-project/#google)
