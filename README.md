@@ -7,7 +7,7 @@ Curated list of resources for design, development and process in the newsroom.
 
 ## Code Editors
 
-- [HyperDev](https://hyperdev.com/)
+- [HyperDev](https://hyperdev.com/): Developer playground for building full-stack web apps, fast
 - [CodePen](http://codepen.io/)
 - [Blockbuilder](http://blockbuilder.org/)
 
