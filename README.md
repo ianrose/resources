@@ -23,7 +23,7 @@ Curated list of resources for design, development and process in the newsroom.
 - [Mapstarter](http://mapstarter.com/): A tool for turning a geographic data file into a map for the web
 - [Awesome Base Layers](http://felix.rohrba.ch/en/2016/awesome-basemap-layer-for-your-qgis-project/#google)
 - [Locator](https://github.com/datanews/locator): A customizable, in-browser [locator map](https://en.wikipedia.org/wiki/Locator_map) creator.
-- [Mapshaper](http://mapshaper.org/)
+- [Mapshaper](http://mapshaper.org/): Tools for editing Shapefile, GeoJSON and TopoJSON files
 - [Datamaps.co](https://datamaps.co/)
 
 ## Charting
