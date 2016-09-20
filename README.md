@@ -33,7 +33,7 @@ Curated list of resources for design, development and process in the newsroom.
 
 ## Conversion
 
-- [Browserling Dev Tools](https://www.browserling.com/tools)
+- [Browserling Dev Tools](https://www.browserling.com/tools): A collection of the most popular developer tools all in one place
 - [HTML Compress](http://www.textfixer.com/html/compress-html-compression.php)
 - [JSON Escape](http://bernhardhaeussner.de/odd/json-escape/)
 
