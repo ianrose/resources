@@ -56,45 +56,44 @@ Curated list of resources for design, development and process in the newsroom.
 - [Typewolf](https://www.typewolf.com/): Helps designers choose the perfect font combination for their next design project
 - [TypeMotion](http://yannick-lohse.fr/TypeMotion/): A bookmarklet that helps setting typographic rythm in a text
 - [CSS Tricks Line Length](https://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/): Bookmarklet to Colorize Text Between 45 and 75 Characters (for line-length testing)
-- [TypeSample](http://www.typesample.com/):
+- [TypeSample](http://www.typesample.com/): A bookmarklet for identifying and sampling webfonts.
 
 
 ## Color Theory
 
 - [Color.hailpixel](http://color.hailpixel.com/): An easy way to create and share color palettes with just a swipe of your finger.
-- [Awesome-list Colorful](https://github.com/Siddharth11/Colorful):
-- [Palettable](http://www.palettable.io/):
-- [ColorBrewer](http://colorbrewer2.org/):
+- [Awesome-list Colorful](https://github.com/Siddharth11/Colorful): A curated list of awesome resources to choose your next color scheme
+- [Palettable](http://www.palettable.io/): Generate beautiful color palettes, even with no prior design knowledge
+- [ColorBrewer](http://colorbrewer2.org/): Web tool for guidance in choosing choropleth map color schemes
 
 ## CDNs
-- [CDNjs](https://cdnjs.com/):
-- [JSDelivr](https://www.jsdelivr.com/):
-- [RawGit](https://rawgit.com/):
+- [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
+- [JSDelivr](https://www.jsdelivr.com/): The advanced open source public CDN
+- [RawGit](https://rawgit.com/): Serves raw files directly from GitHub with proper Content-Type headers.
 
 ## Testing
 
-- [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/):
+- [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/): A client-side script that checks HTML source code and detects violations of a defined coding standard
 
 ## Resources
 
-- [Unsplash](https://unsplash.com/):
-- [Unsplash it](https://unsplash.it/):
-- [PlaceholdIt](http://placehold.it/):
-- [HTML Arrows](http://htmlarrows.com/):
-- [Creating Styleguides](https://medium.mybridge.co/all-about-creating-design-style-guides-cba6f6ca509d#.ditzgbrbr):
-- [NYT Why we are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf):
+- [Unsplash](https://unsplash.com/): Free ([do whatever you want](https://unsplash.com/license)) high-resolution photos.
+- [Unsplash it](https://unsplash.it/): Beautiful placeholders using images from [unsplash](https://unsplash.com/)
+- [PlaceholdIt](http://placehold.it/): A quick and simple image placeholder service.
+- [HTML Arrows](http://htmlarrows.com/): A comprehensive reference website for finding HTML symbol codes and entities
+- [Creating Styleguides](https://medium.mybridge.co/all-about-creating-design-style-guides-cba6f6ca509d#.ditzgbrbr): All about creating design style guides
+- [NYT Why we are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf): New York Times presentation on three rules for visual storytelling
 
 ## Utilities
 
-- [Pym iFrames](http://blog.apps.npr.org/pym.js/):
-- [Sticky State](https://github.com/soenkekluth/sticky-state):
-- [Comma Chameleon](http://comma-chameleon.io/):
+- [Pym iFrames](http://blog.apps.npr.org/pym.js/): Embeds and resizes an iframe responsively (width and height) within its parent container
+- [Sticky State](https://github.com/soenkekluth/sticky-state): A high performant module making native position:sticky statefull and polyfilling the missing sticky browser feature
+- [Comma Chameleon](http://comma-chameleon.io/): A desktop CSV editor for data publishers
 
 ## Lists
 
-- [The New School's Journalism Design](https://trello.com/b/L7M9gril/journalism-design-resources):
-- [Awesomeness Search](https://getawesomeness.herokuapp.com/):
-- [List of List](https://github.com/jnv/lists):
-- [Web Field Manual](http://webfieldmanual.com/):
-- [adriengervaix](http://list.adriengervaix.com/):
-- [Unheap](http://www.unheap.com/):
+- [The New School's Journalism Design](https://trello.com/b/L7M9gril/journalism-design-resources): Journalism and design resources
+- [Awesomeness Search](https://getawesomeness.herokuapp.com/): To retrieve all amazing awesomeness from Github
+- [List of List](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub
+- [Web Field Manual](http://webfieldmanual.com/): A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
+- [Unheap](http://www.unheap.com/): A tidy repository of javascript plugins
