@@ -20,7 +20,7 @@ Curated list of resources for design, development and process in the newsroom.
 
 - [rMaps Interactive Maps from R](http://rmaps.github.io/): makes it easy to create, customize and share interactive maps from R
 - [Datamaps.js](http://datamaps.github.io/): Customizable SVG map visualizations for the web in a single Javascript file using D3.js
-- [Mapstarter](http://mapstarter.com/)
+- [Mapstarter](http://mapstarter.com/): A tool for turning a geographic data file into a map for the web
 - [Awesome Base Layers](http://felix.rohrba.ch/en/2016/awesome-basemap-layer-for-your-qgis-project/#google)
 - [Locator](https://github.com/datanews/locator)
 - [Mapshaper](http://mapshaper.org/)
