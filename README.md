@@ -4,20 +4,20 @@ Curated list of resources for design, development and process in the newsroom.
 
 ## Code Editors
 
-- HyperDev: https://hyperdev.com/
-- CodePen: http://codepen.io/
-- http://blockbuilder.org/
+- [HyperDev](https://hyperdev.com/)
+- [CodePen](http://codepen.io/)
+- [Blockbuilder](http://blockbuilder.org/)
 
 ## SVG
 
-- Crowbar: http://nytimes.github.io/svg-crowbar/
-- svgsaver (works with C3.js): http://hypercubed.github.io/svgsaver-crowbar/
+- [Crowbar](http://nytimes.github.io/svg-crowbar/)
+- [svgsaver](http://hypercubed.github.io/svgsaver-crowbar/): works with C3.js
 
 ## Mapping
 
-- rMaps Interactive Maps from R: http://rmaps.github.io/
-- Datamaps.js: http://datamaps.github.io/
-- Mapstarter: http://mapstarter.com/
+- [rMaps Interactive Maps from R](http://rmaps.github.io/)
+- [Datamaps.js](http://datamaps.github.io/)
+- [Mapstarter](http://mapstarter.com/)
 - Awesome Base Layers: http://felix.rohrba.ch/en/2016/awesome-basemap-layer-for-your-qgis-project/#google
 - Locator: https://github.com/datanews/locator
 - Mapshaper: http://mapshaper.org/
