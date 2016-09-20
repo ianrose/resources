@@ -24,7 +24,7 @@ Curated list of resources for design, development and process in the newsroom.
 - [Awesome Base Layers](http://felix.rohrba.ch/en/2016/awesome-basemap-layer-for-your-qgis-project/#google)
 - [Locator](https://github.com/datanews/locator): A customizable, in-browser [locator map](https://en.wikipedia.org/wiki/Locator_map) creator.
 - [Mapshaper](http://mapshaper.org/): Tools for editing Shapefile, GeoJSON and TopoJSON files
-- [Datamaps.co](https://datamaps.co/)
+- [Datamaps.co](https://datamaps.co/): A free and simple platform for creating visualizations with data maps
 
 ## Charting
 
