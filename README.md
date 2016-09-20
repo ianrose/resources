@@ -13,7 +13,7 @@ Curated list of resources for design, development and process in the newsroom.
 
 ## SVG
 
-- [Crowbar](http://nytimes.github.io/svg-crowbar/)
+- [Crowbar](http://nytimes.github.io/svg-crowbar/): Bookmarklet that extracts SVG nodes and accompanying styles from an HTML document and downloads them as an SVG file
 - [svgsaver](http://hypercubed.github.io/svgsaver-crowbar/): works with C3.js
 
 ## Mapping
