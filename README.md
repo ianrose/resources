@@ -28,7 +28,7 @@ Curated list of resources for design, development and process in the newsroom.
 
 ## Charting
 
-- [C3.js](http://c3js.org/)
+- [C3.js](http://c3js.org/): D3-based reusable chart library
 - [RAW](http://raw.densitydesign.org/): The missing link between spreadsheets and vector graphics.
 
 ## Conversion
