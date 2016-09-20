@@ -8,7 +8,7 @@ Curated list of resources for design, development and process in the newsroom.
 ## Code Editors
 
 - [HyperDev](https://hyperdev.com/): Developer playground for building full-stack web apps, fast
-- [CodePen](http://codepen.io/)
+- [CodePen](http://codepen.io/): Playground for the front end side of the web
 - [Blockbuilder](http://blockbuilder.org/)
 
 ## SVG
