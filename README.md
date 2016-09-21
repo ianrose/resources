@@ -5,9 +5,6 @@ published: true
 layout: list.html
 description: Curated list of resources for design, development and process in the newsroom.
 ---
-# Resources
-
-Curated list of resources for design, development and process in the newsroom.
 
 ## Code Editors
 
