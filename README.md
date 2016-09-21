@@ -97,3 +97,5 @@ description: Curated list of resources for design, development and process in th
 - [List of List](https://github.com/jnv/lists): The definitive list of lists (of lists) curated on GitHub
 - [Web Field Manual](http://webfieldmanual.com/): A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
 - [Unheap](http://www.unheap.com/): A tidy repository of javascript plugins
+
+[Source](https://github.com/ianrose/resources)
