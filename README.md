@@ -1,6 +1,7 @@
 ---
 autotoc: true
 published: true
+layout: list.html
 ---
 # Resources
 
