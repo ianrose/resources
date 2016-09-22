@@ -75,6 +75,10 @@ description: Curated list of resources for design, development and process in th
 
 - [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/): A client-side script that checks HTML source code and detects violations of a defined coding standard
 
+## Bots
+
+- [BotKit](https://howdy.ai/botkit/): Open-source toolkit for creating bots for messaging platforms
+
 ## Resources
 
 - [Unsplash](https://unsplash.com/): Free ([do whatever you want](https://unsplash.com/license)) high-resolution photos.
