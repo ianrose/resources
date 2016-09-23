@@ -3,7 +3,7 @@ title: List of Resources
 autotoc: true
 published: true
 layout: list.html
-description: Curated list of resources for design, development and process in the newsroom.
+description: 'Curated list of resources for design, development and process in the newsroom.'
 ---
 
 ## Code Editors
@@ -89,6 +89,7 @@ description: Curated list of resources for design, development and process in th
 - [HTML Arrows](http://htmlarrows.com/): A comprehensive reference website for finding HTML symbol codes and entities
 - [Creating Styleguides](https://medium.mybridge.co/all-about-creating-design-style-guides-cba6f6ca509d#.ditzgbrbr): All about creating design style guides
 - [NYT Why we are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf): New York Times presentation on three rules for visual storytelling
+- [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode): Commonly-supported Emoji that map to standardized Unicode characters
 
 ## Utilities
 
