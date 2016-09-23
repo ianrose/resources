@@ -96,6 +96,9 @@ description: 'Curated list of resources for design, development and process in t
 - [Pym iFrames](http://blog.apps.npr.org/pym.js/): Embeds and resizes an iframe responsively (width and height) within its parent container
 - [Sticky State](https://github.com/soenkekluth/sticky-state): A high performant module making native position:sticky statefull and polyfilling the missing sticky browser feature
 - [Comma Chameleon](http://comma-chameleon.io/): A desktop CSV editor for data publishers
+- [Scrollanim](http://scrollanim.kissui.io/): A CSS3 and JavaScript library to create stunning scroll animations that work everywhere
+- [ScrollStory](http://sjwilliams.github.io/scrollstory/): A jQuery plugin for building scroll-based stories
+- [Swiper](http://idangero.us/swiper): A modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity
 
 ## Lists
 
