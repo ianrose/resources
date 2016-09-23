@@ -79,6 +79,7 @@ description: Curated list of resources for design, development and process in th
 ## Bots
 
 - [BotKit](https://howdy.ai/botkit/): Open-source toolkit for creating bots for messaging platforms
+- [ChatFuel](https://chatfuel.com/): Build a Facebook bot without coding
 
 ## Resources
 
