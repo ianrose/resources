@@ -99,6 +99,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Scrollanim](http://scrollanim.kissui.io/): A CSS3 and JavaScript library to create stunning scroll animations that work everywhere
 - [ScrollStory](http://sjwilliams.github.io/scrollstory/): A jQuery plugin for building scroll-based stories
 - [Swiper](http://idangero.us/swiper): A modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity
+- [Graph Scroll](https://github.com/1wheel/graph-scroll/tree/master): Simple scrolling events for [d3](https://github.com/mbostock/d3) graphs. Based on [stack](https://github.com/mbostock/stack.git)
 
 ## Lists
 
