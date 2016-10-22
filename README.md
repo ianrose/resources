@@ -16,7 +16,7 @@ description: 'Curated list of resources for design, development and process in t
 
 - [Crowbar](http://nytimes.github.io/svg-crowbar/): Bookmarklet that extracts SVG nodes and accompanying styles from an HTML document and downloads them as an SVG file
 - [svgsaver](http://hypercubed.github.io/svgsaver-crowbar/): works with C3.js
-- [Vivus](https://github.com/maxwellito/vivus): Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearance of being drawn.
+- [Vivus](https://github.com/maxwellito/vivus): Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearance of being drawn
 
 ## Mapping
 
@@ -90,6 +90,8 @@ description: 'Curated list of resources for design, development and process in t
 - [Creating Styleguides](https://medium.mybridge.co/all-about-creating-design-style-guides-cba6f6ca509d#.ditzgbrbr): All about creating design style guides
 - [NYT Why we are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf): New York Times presentation on three rules for visual storytelling
 - [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode): Commonly-supported Emoji that map to standardized Unicode characters
+- [Citysets](http://citysets.co.uk/): A growing collection of free city-based icon sets
+- [Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/raw/master/visual-vocabulary/Visual-vocabulary.pdf): There are so many ways to visualise data - how do we know which one to pick?
 
 ## Utilities
 
