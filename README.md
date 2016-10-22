@@ -16,6 +16,7 @@ description: 'Curated list of resources for design, development and process in t
 
 - [Crowbar](http://nytimes.github.io/svg-crowbar/): Bookmarklet that extracts SVG nodes and accompanying styles from an HTML document and downloads them as an SVG file
 - [svgsaver](http://hypercubed.github.io/svgsaver-crowbar/): works with C3.js
+- [Vivus](https://github.com/maxwellito/vivus): Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearance of being drawn.
 
 ## Mapping
 
@@ -59,7 +60,6 @@ description: 'Curated list of resources for design, development and process in t
 - [CSS Tricks Line Length](https://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/): Bookmarklet to Colorize Text Between 45 and 75 Characters (for line-length testing)
 - [TypeSample](http://www.typesample.com/): A bookmarklet for identifying and sampling webfonts.
 
-
 ## Color Theory
 
 - [Color.hailpixel](http://color.hailpixel.com/): An easy way to create and share color palettes with just a swipe of your finger.
@@ -100,6 +100,7 @@ description: 'Curated list of resources for design, development and process in t
 - [ScrollStory](http://sjwilliams.github.io/scrollstory/): A jQuery plugin for building scroll-based stories
 - [Swiper](http://idangero.us/swiper): A modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity
 - [Graph Scroll](https://github.com/1wheel/graph-scroll/tree/master): Simple scrolling events for [d3](https://github.com/mbostock/d3) graphs. Based on [stack](https://github.com/mbostock/stack.git)
+- [Choreographer.js](https://github.com/christinecha/choreographer-js): A simple library to take care of complicated animations.
 
 ## Lists
 
