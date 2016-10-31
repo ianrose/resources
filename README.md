@@ -40,9 +40,10 @@ description: 'Curated list of resources for design, development and process in t
 - [HTML Compress](http://www.textfixer.com/html/compress-html-compression.php): This online HTML compression tool will save space in your HTML files
 - [JSON Escape](http://bernhardhaeussner.de/odd/json-escape/): Escape for JSON and Javascript online tool
 
-## Audio
+## Audio and Video
 
 - [Soundcite](https://soundcite.knightlab.com/): Inline audio players
+- [AutoEdit](https://github.com/OpenNewsLabs/autoEdit_2): Text Based Video Editing, node NWJS Os X desktop app, with Backbone front end.
 
 ## Datasets
 
