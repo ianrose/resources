@@ -78,6 +78,10 @@ description: 'Curated list of resources for design, development and process in t
 
 - [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/): A client-side script that checks HTML source code and detects violations of a defined coding standard
 
+## Templates
+
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE): A fully responsive admin template. Based on Bootstrap 3 framework.
+
 ## Bots
 
 - [BotKit](https://howdy.ai/botkit/): Open-source toolkit for creating bots for messaging platforms
