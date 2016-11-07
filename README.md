@@ -67,6 +67,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Awesome-list Colorful](https://github.com/Siddharth11/Colorful): A curated list of awesome resources to choose your next color scheme
 - [Palettable](http://www.palettable.io/): Generate beautiful color palettes, even with no prior design knowledge
 - [ColorBrewer](http://colorbrewer2.org/): Web tool for guidance in choosing choropleth map color schemes
+- [Open Color](https://yeun.github.io/open-color/): Open color is an open-source color scheme optimized for UI like font, background, border, etc.
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
