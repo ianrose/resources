@@ -87,6 +87,10 @@ description: 'Curated list of resources for design, development and process in t
 - [BotKit](https://howdy.ai/botkit/): Open-source toolkit for creating bots for messaging platforms
 - [ChatFuel](https://chatfuel.com/): Build a Facebook bot without coding
 
+## UX
+
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/): Extensive guidelines and highlight some practical examples of what we can do to implement them and make our websites more accessible. 
+
 ## Resources
 
 - [Unsplash](https://unsplash.com/): Free ([do whatever you want](https://unsplash.com/license)) high-resolution photos.
