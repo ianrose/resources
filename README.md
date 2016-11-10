@@ -6,8 +6,6 @@ layout: list.html
 description: 'Curated list of resources for design, development and process in the newsroom.'
 ---
 
-## hello EJ
-
 ## Code Editors
 
 - [HyperDev](https://hyperdev.com/): Developer playground for building full-stack web apps, fast
