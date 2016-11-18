@@ -45,6 +45,10 @@ description: 'Curated list of resources for design, development and process in t
 - [Soundcite](https://soundcite.knightlab.com/): Inline audio players
 - [AutoEdit](https://github.com/OpenNewsLabs/autoEdit_2): Text Based Video Editing, node NWJS Os X desktop app, with Backbone front end.
 
+## Animation
+
+- [Mo.js](https://github.com/legomushroom/mojs): Motion graphics toolbelt for the web
+
 ## Datasets
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets): An awesome list of high-quality open datasets in public domains (on-going)
