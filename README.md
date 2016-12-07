@@ -122,7 +122,7 @@ description: 'Curated list of resources for design, development and process in t
 
 ## Hosting
 
-- [Stout][https://github.com/EagerIO/Stout]: It takes a website and uploads it to S3 in a more reliable way than other tools.
+- [Stout](https://github.com/EagerIO/Stout): It takes a website and uploads it to S3 in a more reliable way than other tools.
 
 ## Lists
 
