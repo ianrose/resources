@@ -120,6 +120,10 @@ description: 'Curated list of resources for design, development and process in t
 - [Graph Scroll](https://github.com/1wheel/graph-scroll/tree/master): Simple scrolling events for [d3](https://github.com/mbostock/d3) graphs. Based on [stack](https://github.com/mbostock/stack.git)
 - [Choreographer.js](https://github.com/christinecha/choreographer-js): A simple library to take care of complicated animations.
 
+## Hosting
+
+- [Stout][https://github.com/EagerIO/Stout]: It takes a website and uploads it to S3 in a more reliable way than other tools.
+
 ## Lists
 
 - [The New School's Journalism Design](https://trello.com/b/L7M9gril/journalism-design-resources): Journalism and design resources
