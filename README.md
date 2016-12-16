@@ -34,6 +34,8 @@ description: 'Curated list of resources for design, development and process in t
 - [C3.js](http://c3js.org/): D3-based reusable chart library
 - [RAW](http://raw.densitydesign.org/): The missing link between spreadsheets and vector graphics.
 - [Vega-lite](https://vega.github.io/vega-lite/): Provides a concise JSON syntax for supporting rapid generation of visualizations to support analysis
+- [dc.js](https://dc-js.github.io/dc.js/): Dimensional Charting Javascript Library
+- [TauCharts](https://www.taucharts.com/): Flexible javascript charting library for data exploration.
 
 ## CMS
 
