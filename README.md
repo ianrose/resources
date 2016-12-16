@@ -27,6 +27,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Locator](https://github.com/datanews/locator): A customizable, in-browser [locator map](https://en.wikipedia.org/wiki/Locator_map) creator.
 - [Mapshaper](http://mapshaper.org/): Tools for editing Shapefile, GeoJSON and TopoJSON files
 - [Datamaps.co](https://datamaps.co/): A free and simple platform for creating visualizations with data maps
+- [Mapinseconds](http://mapinseconds.com/): Turns your spreadsheet data into maps
 
 ## Charting
 
