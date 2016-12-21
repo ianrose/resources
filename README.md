@@ -36,6 +36,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Vega-lite](https://vega.github.io/vega-lite/): Provides a concise JSON syntax for supporting rapid generation of visualizations to support analysis
 - [dc.js](https://dc-js.github.io/dc.js/): Dimensional Charting Javascript Library
 - [TauCharts](https://www.taucharts.com/): Flexible javascript charting library for data exploration.
+- [Koto.js](http://kotojs.org/): A d3 framework for reusable charts
 
 ## CMS
 
