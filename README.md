@@ -128,6 +128,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Swiper](http://idangero.us/swiper): A modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity
 - [Graph Scroll](https://github.com/1wheel/graph-scroll/tree/master): Simple scrolling events for [d3](https://github.com/mbostock/d3) graphs. Based on [stack](https://github.com/mbostock/stack.git)
 - [Choreographer.js](https://github.com/christinecha/choreographer-js): A simple library to take care of complicated animations.
+- [Modaal](https://github.com/humaan/Modaal): An accessible dialog window library for all humans.
 
 ## Hosting
 
