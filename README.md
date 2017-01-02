@@ -117,6 +117,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/raw/master/visual-vocabulary/Visual-vocabulary.pdf): There are so many ways to visualise data - how do we know which one to pick?
 - [HTML5 Pattern](http://html5pattern.com): a source of regularly used regex Input-Patterns.
 - [CSS Reference](http://cssreference.io/): a visual guide to CSS
+- [Libraries.io](https://libraries.io): The Open Source discovery search.
 
 ## Utilities
 
