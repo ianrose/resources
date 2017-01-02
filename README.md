@@ -131,6 +131,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Modaal](https://github.com/humaan/Modaal): An accessible dialog window library for all humans.
 - [object-fit-polyfill](https://github.com/constancecchen/object-fit-polyfill): A Javascript polyfill for browsers that don't support the object-fit CSS property.
 - [blueimp Gallery](https://blueimp.github.io/Gallery/): Touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.
+- [regexgen](https://github.com/devongovett/regexgen): Generate regular expressions that match a set of strings.
 
 ## Hosting
 
