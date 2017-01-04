@@ -118,6 +118,7 @@ description: 'Curated list of resources for design, development and process in t
 - [HTML5 Pattern](http://html5pattern.com): a source of regularly used regex Input-Patterns.
 - [CSS Reference](http://cssreference.io/): a visual guide to CSS
 - [Libraries.io](https://libraries.io): The Open Source discovery search.
+- [Docute](https://docute.js.org): Effortlessly documentation done right
 
 ## Utilities
 
