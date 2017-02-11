@@ -156,6 +156,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Web Field Manual](http://webfieldmanual.com/): A curated list of resources focused on documenting only the best knowledge for designing experiences and interfaces on the web.
 - [Unheap](http://www.unheap.com/): A tidy repository of javascript plugins
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism): A list of awesome interactive journalism projects
+- [markapp](http://markapp.io/): The goal of this site is to collect and promote JS libraries that can be used without writing any JS.
 
 ## Contribute
 If you want to add to this list please make a pull request: [GitHub Source](https://github.com/ianrose/resources)
