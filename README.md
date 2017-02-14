@@ -96,6 +96,7 @@ description: 'Curated list of resources for design, development and process in t
 ## Testing
 
 - [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/): A client-side script that checks HTML source code and detects violations of a defined coding standard
+- [tota11y](https://khan.github.io/tota11y/): an accessibility visualization toolkit
 
 ## Templates
 
