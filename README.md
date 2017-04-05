@@ -79,6 +79,7 @@ description: 'Curated list of resources for design, development and process in t
 - [TypeMotion](http://yannick-lohse.fr/TypeMotion/): A bookmarklet that helps setting typographic rythm in a text
 - [CSS Tricks Line Length](https://css-tricks.com/bookmarklet-colorize-text-45-75-characters-line-length-testing/): Bookmarklet to Colorize Text Between 45 and 75 Characters (for line-length testing)
 - [TypeSample](http://www.typesample.com/): A bookmarklet for identifying and sampling webfonts.
+- [Datalegreya](http://figs-lab.com/en/datalegreya): Font that mingles charts with text
 
 ## Color Theory
 
