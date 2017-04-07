@@ -29,6 +29,10 @@ description: 'Curated list of resources for design, development and process in t
 - [Datamaps.co](https://datamaps.co/): A free and simple platform for creating visualizations with data maps
 - [Mapinseconds](http://mapinseconds.com/): Turns your spreadsheet data into maps
 
+## Design
+
+- [Gravit Designer](https://designer.io/): Free powerful design tool on any platform
+
 ## Charting
 
 - [C3.js](http://c3js.org/): D3-based reusable chart library
