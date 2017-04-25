@@ -106,6 +106,7 @@ description: 'Curated list of resources for design, development and process in t
 ## Templates
 
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE): A fully responsive admin template. Based on Bootstrap 3 framework.
+- [Boilrplate](http://www.boilrplate.com/): A curated directory of boilerplates to help you start your projects.
 
 ## Bots
 
