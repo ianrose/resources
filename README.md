@@ -17,6 +17,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Crowbar](http://nytimes.github.io/svg-crowbar/): Bookmarklet that extracts SVG nodes and accompanying styles from an HTML document and downloads them as an SVG file
 - [svgsaver](http://hypercubed.github.io/svgsaver-crowbar/): works with C3.js
 - [Vivus](https://github.com/maxwellito/vivus): Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearance of being drawn
+- [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
 
 ## Mapping
 
