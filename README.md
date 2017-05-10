@@ -42,6 +42,7 @@ description: 'Curated list of resources for design, development and process in t
 - [dc.js](https://dc-js.github.io/dc.js/): Dimensional Charting Javascript Library
 - [TauCharts](https://www.taucharts.com/): Flexible javascript charting library for data exploration.
 - [Koto.js](http://kotojs.org/): A d3 framework for reusable charts
+- [Britecharts](https://eventbrite.github.io/britecharts/index.html): Client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
 
 ## CMS
 
