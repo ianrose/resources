@@ -155,6 +155,7 @@ description: 'Curated list of resources for design, development and process in t
 - [blueimp Gallery](https://blueimp.github.io/Gallery/): Touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.
 - [regexgen](https://github.com/devongovett/regexgen): Generate regular expressions that match a set of strings.
 - [scrollMonitor](https://github.com/stutrek/scrollMonitor): A simple and fast API to monitor elements as you scroll
+- [ScrollMagic](http://scrollmagic.io/): helps you to easily react to the user's current scroll position.
 
 ## Hosting
 
