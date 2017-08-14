@@ -139,6 +139,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Libraries.io](https://libraries.io): The Open Source discovery search.
 - [Docute](https://docute.js.org): Effortlessly documentation done right
 - [How to implement scrollytelling with six different libraries](https://pudding.cool/process/how-to-implement-scrollytelling/): How to tackle a simple scroll-driven chart using six different libraries
+- [Feather Icons](https://feathericons.com/): open-source icons
 
 ## Utilities
 
