@@ -140,6 +140,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Docute](https://docute.js.org): Effortlessly documentation done right
 - [How to implement scrollytelling with six different libraries](https://pudding.cool/process/how-to-implement-scrollytelling/): How to tackle a simple scroll-driven chart using six different libraries
 - [Feather Icons](https://feathericons.com/): open-source icons
+- [Data Viz Project](http://datavizproject.com): This is a website trying to present all relevant data visualizations, so you can find the right visualization and get inspiration on how to do it.
 
 ## Utilities
 
