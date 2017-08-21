@@ -159,6 +159,7 @@ description: 'Curated list of resources for design, development and process in t
 - [scrollMonitor](https://github.com/stutrek/scrollMonitor): A simple and fast API to monitor elements as you scroll
 - [ScrollMagic](http://scrollmagic.io/): helps you to easily react to the user's current scroll position.
 - [Rellax](https://github.com/dixonandmoe/rellax): Lightweight, vanilla javascript parallax library
+- [Tachyons TLDR](https://tachyons-tldr.now.sh/): Quick lookup for tachyon classes, scales and colour palette
 
 ## Hosting
 
