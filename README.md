@@ -160,6 +160,7 @@ description: 'Curated list of resources for design, development and process in t
 - [ScrollMagic](http://scrollmagic.io/): helps you to easily react to the user's current scroll position.
 - [Rellax](https://github.com/dixonandmoe/rellax): Lightweight, vanilla javascript parallax library
 - [Tachyons TLDR](https://tachyons-tldr.now.sh/): Quick lookup for tachyon classes, scales and colour palette
+- [Scotty JS](https://github.com/stojanovic/scottyjs): Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
 
 ## Hosting
 
