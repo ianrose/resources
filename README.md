@@ -30,6 +30,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Datamaps.co](https://datamaps.co/): A free and simple platform for creating visualizations with data maps
 - [Mapinseconds](http://mapinseconds.com/): Turns your spreadsheet data into maps
 - [geojson.io](http://geojson.io/): a quick, simple tool for creating, viewing, and sharing maps.
+- [SRTM 90m Digital Elevation Data](http://srtm.csi.cgiar.org/): The CGIAR-CSI GeoPortal is able to provide SRTM 90m Digital Elevation Data for the entire world.
 
 ## Design
 
