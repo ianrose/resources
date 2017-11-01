@@ -48,6 +48,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Britecharts](https://eventbrite.github.io/britecharts/index.html): Client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
 - [Billboard.js](https://naver.github.io/billboard.js/): Re-usable easy interface JavaScript chart library, based on D3 v4+.
 - [idyll](https://idyll-lang.github.io/): a tool that makes it easier to author interactive narratives for the web
+- [Frappé Charts](https://github.com/frappe/charts): Simple, responsive, modern SVG Charts with zero dependencies
 
 ## CMS
 
