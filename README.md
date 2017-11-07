@@ -57,6 +57,7 @@ description: 'Curated list of resources for design, development and process in t
 - [The Google Drive CMS](https://www.drivecms.xyz/): The Google Drive CMS is a Google Sheet with a custom menu option to publish the content of that spreadsheet to your site's API.
 - [Cosmic](https://cosmicjs.com): API first CMS
 - [headlesscms](https://headlesscms.org/): A List of Content Management Systems for JAMstack Sites
+- [Strapi](https://strapi.io/): Node.js Content Management Framework (headless-CMS) to build API
 
 ## Conversion
 
