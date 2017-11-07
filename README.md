@@ -33,7 +33,7 @@ description: 'Curated list of resources for design, development and process in t
 - [SRTM 90m Digital Elevation Data](http://srtm.csi.cgiar.org/): The CGIAR-CSI GeoPortal is able to provide SRTM 90m Digital Elevation Data for the entire world.
 - [SRTM Tile Grabber](http://dwtkns.com/srtm/): This interface attempts to ease the pain of downloading elevation data from the Shuttle Radar Topography Mission.
 - [Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground): Global coverage of the Earth's land surface every 10 days at resolutions up to 10 meters.
-- [Tilezen])(https://github.com/tilezen): Open source tiles and libraries, sponsored by Mapzen
+- [Tilezen](https://github.com/tilezen): Open source tiles and libraries, sponsored by Mapzen
 
 ## Design
 
