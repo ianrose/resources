@@ -100,6 +100,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Datalegreya](http://figs-lab.com/en/datalegreya): Font that mingles charts with text
 - [Butler](http://fabiandesmet.com/portfolio/butler-font/): Free serif typeface inspired by a mix between both Dala Floda & the amazing Bodoni family.
 - [Anderson Grotesk](https://www.dropbox.com/sh/xytqjyhmvi2qyj7/AAB7CdUDNq4XnMhbJFatzm8Ha?dl=0): Free sans-serif typeface
+- [Fontplop](http://www.fontplop.com/): OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, tff, svg, and eot.
 
 ## Color Theory
 
