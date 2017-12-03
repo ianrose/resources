@@ -176,6 +176,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Scotty JS](https://github.com/stojanovic/scottyjs): Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
 - [envup](https://github.com/luk707/envup): Node CLI tool to configure environment variables
 - [Scrollama](https://github.com/russellgoldenberg/scrollama): JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
+- [Adobe CC Scripts Panel](https://github.com/majman/adobe-scripts-panel): Scripting Panel for After Effects, Illustrator, and Photoshop
 
 ## Hosting
 
