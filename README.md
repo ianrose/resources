@@ -77,6 +77,7 @@ description: 'Curated list of resources for design, development and process in t
 
 - [Mo.js](https://github.com/legomushroom/mojs): Motion graphics toolbelt for the web
 - [anime.js](http://anime-js.com/): a lightweight JavaScript animation library
+- [Popmotion](https://github.com/popmotion/popmotion): A functional JavaScript motion library
 
 ## Datasets
 
