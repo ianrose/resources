@@ -18,6 +18,7 @@ description: 'Curated list of resources for design, development and process in t
 - [svgsaver](http://hypercubed.github.io/svgsaver-crowbar/): works with C3.js
 - [Vivus](https://github.com/maxwellito/vivus): Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearance of being drawn
 - [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
+- [xvg](https://xvg.now.sh/): A Chrome extension for debugging SVG paths by converting them to outlines and displaying anchors, control points, handles and arc ellipses.
 
 ## Mapping
 
