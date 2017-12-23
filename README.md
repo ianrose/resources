@@ -79,6 +79,8 @@ description: 'Curated list of resources for design, development and process in t
 - [Mo.js](https://github.com/legomushroom/mojs): Motion graphics toolbelt for the web
 - [anime.js](http://anime-js.com/): a lightweight JavaScript animation library
 - [Popmotion](https://github.com/popmotion/popmotion): A functional JavaScript motion library
+- [two.js](https://two.js.org/): library for two-dimensional drawing in modern browsers, rendering to SVG, canvas, and WebGL
+- [paper.js](http://paperjs.org/): framework for rendering vector graphics to canvas
 
 ## Datasets
 
