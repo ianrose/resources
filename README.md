@@ -108,6 +108,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Anderson Grotesk](https://www.dropbox.com/sh/xytqjyhmvi2qyj7/AAB7CdUDNq4XnMhbJFatzm8Ha?dl=0): Free sans-serif typeface
 - [Fontplop](http://www.fontplop.com/): OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, tff, svg, and eot.
 - [Spectral](https://fonts.google.com/specimen/Spectral): Spectral is a new and versatile serif face available in seven weights of roman and italic, with small caps.
+- [Spark](https://github.com/aftertheflood/spark): a typeface for creating sparklines in text
 
 ## Color Theory
 
