@@ -160,6 +160,9 @@ description: 'Curated list of resources for design, development and process in t
 - [Feather Icons](https://feathericons.com/): open-source icons
 - [Data Viz Project](http://datavizproject.com): This is a website trying to present all relevant data visualizations, so you can find the right visualization and get inspiration on how to do it.
 - [Learn JS Data](http://learnjsdata.com/index.html): Data cleaning, manipulation, and wrangling in JavaScript
+- [Pexels](https://www.pexels.com/): Best free stock photos in one place
+- [Burst](https://burst.shopify.com/): Download free photos to fuel your next project
+- [ISO Republic](https://isorepublic.com/): Free Stock Photos for Creative Professionals
 
 ## Utilities
 
