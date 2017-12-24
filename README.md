@@ -152,7 +152,7 @@ description: 'Curated list of resources for design, development and process in t
 - [NYT Why we are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf): New York Times presentation on three rules for visual storytelling
 - [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode): Commonly-supported Emoji that map to standardized Unicode characters
 - [Citysets](http://citysets.co.uk/): A growing collection of free city-based icon sets
-- [Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/raw/master/visual-vocabulary/Visual-vocabulary.pdf): There are so many ways to visualise data - how do we know which one to pick?
+- [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/): There are so many ways to visualise data - how do we know which one to pick?
 - [HTML5 Pattern](http://html5pattern.com): a source of regularly used regex Input-Patterns.
 - [CSS Reference](http://cssreference.io/): a visual guide to CSS
 - [Libraries.io](https://libraries.io): The Open Source discovery search.
@@ -164,6 +164,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Pexels](https://www.pexels.com/): Best free stock photos in one place
 - [Burst](https://burst.shopify.com/): Download free photos to fuel your next project
 - [ISO Republic](https://isorepublic.com/): Free Stock Photos for Creative Professionals
+- [Devhints](https://devhints.io/): a modest collection of cheatsheets
 
 ## Utilities
 
