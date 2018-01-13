@@ -195,6 +195,11 @@ description: 'Curated list of resources for design, development and process in t
 - [Netlify](https://www.netlify.com/): CDN, Continuous deployment, 1 click HTTPS, and all the services you need.
 - [Staticland](https://static.land/): Static sites with free, automatic SSL for custom domains.
 
+## Email
+
+- [Buttondown](https://buttondown.email/): The easiest way to start and grow your newsletter.
+- [Tinyletter](https://tinyletter.com/): TinyLetter is a personal newsletter service brought to you by the people behind MailChimp
+
 ## Lists
 
 - [The New School's Journalism Design](https://trello.com/b/L7M9gril/journalism-design-resources): Journalism and design resources
