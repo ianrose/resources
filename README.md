@@ -36,6 +36,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground): Global coverage of the Earth's land surface every 10 days at resolutions up to 10 meters.
 - [Tilezen](https://github.com/tilezen): Open source tiles and libraries, sponsored by Mapzen
 - [Geo Maps](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated
+- [gdal_hillshade_tutorial](https://github.com/clhenrick/gdal_hillshade_tutorial): Tutorial for rendering hillshades with GDAL
 
 ## Design
 
