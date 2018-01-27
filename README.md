@@ -54,6 +54,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Billboard.js](https://naver.github.io/billboard.js/): Re-usable easy interface JavaScript chart library, based on D3 v4+.
 - [idyll](https://idyll-lang.github.io/): a tool that makes it easier to author interactive narratives for the web
 - [Frappé Charts](https://github.com/frappe/charts): Simple, responsive, modern SVG Charts with zero dependencies
+- [d3 workbench](https://github.com/BastiTee/d3-workbench): a d3.js-powered workbench for rapid visualization prototyping
 
 ## CMS
 
