@@ -79,6 +79,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Convert to Webm](http://www.bugcodemaster.com/article/convert-videos-webm-format-using-ffmpeg): How to convert any video into webm format using libvpx with vp8 codec for video
 - [Handbrake](https://handbrake.fr/): is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js): is a customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
+- [Kap](https://github.com/wulkano/kap): An open-source screen recorder built with web technology
 
 ## Animation
 
