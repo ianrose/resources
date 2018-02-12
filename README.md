@@ -37,6 +37,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Tilezen](https://github.com/tilezen): Open source tiles and libraries, sponsored by Mapzen
 - [Geo Maps](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated
 - [gdal_hillshade_tutorial](https://github.com/clhenrick/gdal_hillshade_tutorial): Tutorial for rendering hillshades with GDAL
+- [GPS Visualizer's Address Locator](http://www.gpsvisualizer.com/geocoder/): Geocoder, convert multiple addresses to GPS coordinates
 
 ## Design
 
