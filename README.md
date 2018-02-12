@@ -172,6 +172,7 @@ description: 'Curated list of resources for design, development and process in t
 - [ISO Republic](https://isorepublic.com/): Free Stock Photos for Creative Professionals
 - [Devhints](https://devhints.io/): a modest collection of cheatsheets
 - [Data Viz Design Guide](http://designingviz.com/): Use these simple checklists to turn terrible visualizations into stunningly adequate ones.
+- [weepeople](https://github.com/propublica/weepeople/): A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots
 
 ## Utilities
 
