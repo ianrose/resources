@@ -116,6 +116,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Fontplop](http://www.fontplop.com/): OSX/macOS application which takes ttf and otf files and outputs a webfont bundle: woff2, woff, tff, svg, and eot.
 - [Spectral](https://fonts.google.com/specimen/Spectral): Spectral is a new and versatile serif face available in seven weights of roman and italic, with small caps.
 - [Spark](https://github.com/aftertheflood/spark): a typeface for creating sparklines in text
+- [Inter UI](https://rsms.me/inter/): a typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
 
 ## Color Theory
 
