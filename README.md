@@ -64,6 +64,7 @@ description: 'Curated list of resources for design, development and process in t
 - [headlesscms](https://headlesscms.org/): A List of Content Management Systems for JAMstack Sites
 - [Strapi](https://strapi.io/): Node.js Content Management Framework (headless-CMS) to build API
 - [static api generator](https://github.com/eduardoboucas/static-api-generator): Generate a static JSON API from a tree of directories and files
+- [Daptin](https://github.com/daptin/daptin): A developer oriented CMS
 
 ## Conversion
 
