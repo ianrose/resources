@@ -199,6 +199,8 @@ description: 'Curated list of resources for design, development and process in t
 - [envup](https://github.com/luk707/envup): Node CLI tool to configure environment variables
 - [Scrollama](https://github.com/russellgoldenberg/scrollama): JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
 - [Adobe CC Scripts Panel](https://github.com/majman/adobe-scripts-panel): Scripting Panel for After Effects, Illustrator, and Photoshop
+- [Shuffle.js](https://github.com/Vestride/Shuffle): Categorize, sort, and filter a responsive grid of items
+- [Filterizr](https://github.com/giotiskl/Filterizr): is a jQuery plugin that sorts, shuffles and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects
 
 ## Hosting
 
