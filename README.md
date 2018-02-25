@@ -44,6 +44,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Distillery](http://shancarter.github.io/distillery/): a simple GUI for TopoJSON
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas): pre-built TopoJSON from Natural Earth
 - [U.S. Atlas TopoJSON](https://github.com/topojson/us-atlas): pre-built TopoJSON from Natural Earth
+- [Ogre](http://ogre.adc4gis.com/): a web client (service) that translates spatial files into GeoJSON using the ogr2ogr command line tool for use in JavaScript web applications and frameworks
 
 ## Design
 
