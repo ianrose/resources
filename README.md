@@ -39,6 +39,8 @@ description: 'Curated list of resources for design, development and process in t
 - [gdal_hillshade_tutorial](https://github.com/clhenrick/gdal_hillshade_tutorial): Tutorial for rendering hillshades with GDAL
 - [GPS Visualizer's Address Locator](http://www.gpsvisualizer.com/geocoder/): Geocoder, convert multiple addresses to GPS coordinates
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R): a QGIS video tutorial on YouTube
+- [The United States Census](https://www.census.gov/geo/maps-data/data/tiger-line.html): Boundary data for every US state, plus counties, roadways, water features, and so much more
+- [Natural Earth](http://www.naturalearthdata.com): a massive collection of geographic data for both cultural/political and natural features
 
 ## Design
 
