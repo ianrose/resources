@@ -41,6 +41,9 @@ description: 'Curated list of resources for design, development and process in t
 - [QGIS Uncovered](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R): a QGIS video tutorial on YouTube
 - [The United States Census](https://www.census.gov/geo/maps-data/data/tiger-line.html): Boundary data for every US state, plus counties, roadways, water features, and so much more
 - [Natural Earth](http://www.naturalearthdata.com): a massive collection of geographic data for both cultural/political and natural features
+- [Distillery](http://shancarter.github.io/distillery/): a simple GUI for TopoJSON
+- [World Atlas TopoJSON](https://github.com/topojson/world-atlas): pre-built TopoJSON from Natural Earth
+- [U.S. Atlas TopoJSON](https://github.com/topojson/us-atlas): pre-built TopoJSON from Natural Earth
 
 ## Design
 
