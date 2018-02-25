@@ -134,6 +134,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Palettable](http://www.palettable.io/): Generate beautiful color palettes, even with no prior design knowledge
 - [ColorBrewer](http://colorbrewer2.org/): Web tool for guidance in choosing choropleth map color schemes
 - [Open Color](https://yeun.github.io/open-color/): Open color is an open-source color scheme optimized for UI like font, background, border, etc.
+- [Data Color Picker](https://learnui.design/tools/data-color-picker.html): create a series of colors that are visually equidistant
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
@@ -184,6 +185,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Devhints](https://devhints.io/): a modest collection of cheatsheets
 - [Data Viz Design Guide](http://designingviz.com/): Use these simple checklists to turn terrible visualizations into stunningly adequate ones.
 - [weepeople](https://github.com/propublica/weepeople/): A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots
+- [HEAD](https://gethead.info): a free guide to `<head>` elements
 
 ## Utilities
 
@@ -209,6 +211,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Adobe CC Scripts Panel](https://github.com/majman/adobe-scripts-panel): Scripting Panel for After Effects, Illustrator, and Photoshop
 - [Shuffle.js](https://github.com/Vestride/Shuffle): Categorize, sort, and filter a responsive grid of items
 - [Filterizr](https://github.com/giotiskl/Filterizr): is a jQuery plugin that sorts, shuffles and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects
+- [Gifski](https://gif.ski/): converts video frames to GIF animations using pngquant's fancy features for efficient cross-frame palettes and temporal dithering. It produces animated GIFs that use thousands of colors per frame
 
 ## Hosting
 
@@ -232,6 +235,7 @@ description: 'Curated list of resources for design, development and process in t
 - [markapp](http://markapp.io/): The goal of this site is to collect and promote JS libraries that can be used without writing any JS.
 - [lists.design](http://lists.design/): A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. Want to design with real data ? There's a list for that.
 - [Newsroom.Tools](http://newsroom.tools/): Explore our curated digital toolbox built by journalists, for journalists
+- [D3 Discovery](https://d3-discovery.net/): finding D3 plugins with ease
 
 ## Contribute
 If you want to add to this list please make a pull request: [GitHub Source](https://github.com/ianrose/resources)
