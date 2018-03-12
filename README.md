@@ -90,6 +90,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Handbrake](https://handbrake.fr/): is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js): is a customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 - [Kap](https://github.com/wulkano/kap): An open-source screen recorder built with web technology
+- [howler.js ](https://howlerjs.com/): makes working with audio in JavaScript easy and reliable across all platforms
 
 ## Animation
 
