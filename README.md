@@ -64,6 +64,7 @@ description: 'Curated list of resources for design, development and process in t
 - [idyll](https://idyll-lang.github.io/): a tool that makes it easier to author interactive narratives for the web
 - [Frappé Charts](https://github.com/frappe/charts): Simple, responsive, modern SVG Charts with zero dependencies
 - [d3 workbench](https://github.com/BastiTee/d3-workbench): a d3.js-powered workbench for rapid visualization prototyping
+- [Date Illustrator](http://www.data-illustrator.com/): Create infographics and data visualizations without programming.
 
 ## CMS
 
