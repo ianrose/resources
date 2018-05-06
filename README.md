@@ -51,6 +51,7 @@ description: 'Curated list of resources for design, development and process in t
 ## Design
 
 - [Gravit Designer](https://designer.io/): Free powerful design tool on any platform
+- [Solis](https://solisapp.com): Live Design Output that integrates seamlessly with your favourite code editor.
 
 ## Charting
 
