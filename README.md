@@ -215,6 +215,8 @@ description: 'Curated list of resources for design, development and process in t
 - [Shuffle.js](https://github.com/Vestride/Shuffle): Categorize, sort, and filter a responsive grid of items
 - [Filterizr](https://github.com/giotiskl/Filterizr): is a jQuery plugin that sorts, shuffles and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects
 - [Gifski](https://gif.ski/): converts video frames to GIF animations using pngquant's fancy features for efficient cross-frame palettes and temporal dithering. It produces animated GIFs that use thousands of colors per frame
+- [Sketch.The.Ripper](http://sketch.the.ripper.graphics/): It rips a .sketch file and extracts the objects,
+not just shows an embedded preview
 
 ## Hosting
 
