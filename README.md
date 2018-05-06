@@ -219,6 +219,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Gifski](https://gif.ski/): converts video frames to GIF animations using pngquant's fancy features for efficient cross-frame palettes and temporal dithering. It produces animated GIFs that use thousands of colors per frame
 - [Sketch.The.Ripper](http://sketch.the.ripper.graphics/): It rips a .sketch file and extracts the objects,
 not just shows an embedded preview
+- [jsonstore.io](https://www.jsonstore.io/): a free, secured and JSON based cloud datastore for small projects
 
 ## Hosting
 
