@@ -140,6 +140,7 @@ description: 'Curated list of resources for design, development and process in t
 - [ColorBrewer](http://colorbrewer2.org/): Web tool for guidance in choosing choropleth map color schemes
 - [Open Color](https://yeun.github.io/open-color/): Open color is an open-source color scheme optimized for UI like font, background, border, etc.
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html): create a series of colors that are visually equidistant
+- [Color Oracle](http://colororacle.org/index.html): a free color blindness simulator for Windows, Mac and Linux
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
