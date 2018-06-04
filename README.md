@@ -223,6 +223,8 @@ description: 'Curated list of resources for design, development and process in t
 not just shows an embedded preview
 - [jsonstore.io](https://www.jsonstore.io/): a free, secured and JSON based cloud datastore for small projects
 - [Duotones Generator](https://medialoot.com/duotones/): image duotone effect generator
+- [Dayjs](https://github.com/iamkun/dayjs): 2KB immutable date library alternative to Moment.js with the same modern API
+- [Luxon](https://github.com/moment/luxon): A library for working with dates and times in JS
 
 ## Hosting
 
