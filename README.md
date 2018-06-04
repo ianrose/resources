@@ -192,6 +192,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Data Viz Design Guide](http://designingviz.com/): Use these simple checklists to turn terrible visualizations into stunningly adequate ones.
 - [weepeople](https://github.com/propublica/weepeople/): A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots
 - [HEAD](https://gethead.info): a free guide to `<head>` elements
+- [Design Systems](https://www.designsystems.com/): A resource for learning, creating and evangelizing design systems.
 
 ## Utilities
 
