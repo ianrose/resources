@@ -222,6 +222,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Sketch.The.Ripper](http://sketch.the.ripper.graphics/): It rips a .sketch file and extracts the objects,
 not just shows an embedded preview
 - [jsonstore.io](https://www.jsonstore.io/): a free, secured and JSON based cloud datastore for small projects
+- [Duotones Generator](https://medialoot.com/duotones/): image duotone effect generator
 
 ## Hosting
 
