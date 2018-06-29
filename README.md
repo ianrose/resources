@@ -66,7 +66,7 @@ description: 'Curated list of resources for design, development and process in t
 - [idyll](https://idyll-lang.github.io/): a tool that makes it easier to author interactive narratives for the web
 - [Frappé Charts](https://github.com/frappe/charts): Simple, responsive, modern SVG Charts with zero dependencies
 - [d3 workbench](https://github.com/BastiTee/d3-workbench): a d3.js-powered workbench for rapid visualization prototyping
-- [Date Illustrator](http://www.data-illustrator.com/): Create infographics and data visualizations without programming.
+- [Data Illustrator](http://www.data-illustrator.com/): Create infographics and data visualizations without programming.
 
 ## CMS
 
@@ -225,6 +225,7 @@ not just shows an embedded preview
 - [Duotones Generator](https://medialoot.com/duotones/): image duotone effect generator
 - [Dayjs](https://github.com/iamkun/dayjs): 2KB immutable date library alternative to Moment.js with the same modern API
 - [Luxon](https://github.com/moment/luxon): A library for working with dates and times in JS
+- [ArchieML Preview](https://gsuite.google.com/marketplace/app/archieml/989202173200): This addon assists in using Google Docs as an editor for a human-friendly markup language called "ArchieML."
 
 ## Hosting
 
