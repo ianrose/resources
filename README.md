@@ -6,7 +6,7 @@ layout: list.hbs
 description: 'Curated list of resources for design, development and process in the newsroom.'
 ---
 
-## Code Editors
+## Code Editors hello world
 
 - [HyperDev](https://hyperdev.com/): Developer playground for building full-stack web apps, fast
 - [CodePen](http://codepen.io/): Playground for the front end side of the web
