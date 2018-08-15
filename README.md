@@ -193,6 +193,8 @@ description: 'Curated list of resources for design, development and process in t
 - [weepeople](https://github.com/propublica/weepeople/): A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots
 - [HEAD](https://gethead.info): a free guide to `<head>` elements
 - [Design Systems](https://www.designsystems.com/): A resource for learning, creating and evangelizing design systems.
+- [Visualization Universe](http://visualizationuniverse.com/): What types of visualization do we search for and why?
+What tools and books influence our decisions?
 
 ## Utilities
 
