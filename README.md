@@ -228,6 +228,7 @@ not just shows an embedded preview
 - [Dayjs](https://github.com/iamkun/dayjs): 2KB immutable date library alternative to Moment.js with the same modern API
 - [Luxon](https://github.com/moment/luxon): A library for working with dates and times in JS
 - [ArchieML Preview](https://gsuite.google.com/marketplace/app/archieml/989202173200): This addon assists in using Google Docs as an editor for a human-friendly markup language called "ArchieML."
+- [enter-view](https://github.com/russellgoldenberg/enter-view): Dependency-free JavaScript library to detect when element enters into view. It uses requestAnimationFrame in favor of scroll events for less jank.
 
 ## Hosting
 
