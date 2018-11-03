@@ -54,6 +54,7 @@ description: 'Curated list of resources for design, development and process in t
 
 - [Gravit Designer](https://designer.io/): Free powerful design tool on any platform
 - [Solis](https://solisapp.com): Live Design Output that integrates seamlessly with your favourite code editor.
+- [Modulz](https://www.modulz.app): The visual code editor for designing and building digital products—without writing code
 
 ## Charting
 
@@ -69,6 +70,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Frappé Charts](https://github.com/frappe/charts): Simple, responsive, modern SVG Charts with zero dependencies
 - [d3 workbench](https://github.com/BastiTee/d3-workbench): a d3.js-powered workbench for rapid visualization prototyping
 - [Data Illustrator](http://www.data-illustrator.com/): Create infographics and data visualizations without programming.
+- [Muze](https://github.com/chartshq/muze): Muze is a data visualization library which uses a layered Grammar of Graphics (GoG) to create composable and interactive data visualization for web
 
 ## CMS
 
@@ -145,6 +147,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Open Color](https://yeun.github.io/open-color/): Open color is an open-source color scheme optimized for UI like font, background, border, etc.
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html): create a series of colors that are visually equidistant
 - [Color Oracle](http://colororacle.org/index.html): a free color blindness simulator for Windows, Mac and Linux
+- [Colorbox](https://www.colorbox.io): color systems for accessible UIs that scale
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
@@ -234,6 +237,8 @@ not just shows an embedded preview
 - [ArchieML Preview](https://gsuite.google.com/marketplace/app/archieml/989202173200): This addon assists in using Google Docs as an editor for a human-friendly markup language called "ArchieML."
 - [enter-view](https://github.com/russellgoldenberg/enter-view): Dependency-free JavaScript library to detect when element enters into view. It uses requestAnimationFrame in favor of scroll events for less jank.
 - [Lazyestload](https://github.com/Paul-Browne/lazyestload.js): load images only when they are in (and remain in) the viewport
+- [Tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript
+- [Sal](https://github.com/mciastek/sal): Performance focused, lightweight scroll animation library
 
 ## Hosting
 
