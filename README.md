@@ -82,6 +82,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Daptin](https://github.com/daptin/daptin): A developer oriented CMS
 - [https://github.com/typicode/json-server](JSON Server): Get a full fake REST API with zero coding in less than 30 seconds
 - [GrapesJs](https://github.com/artf/grapesjs): Free and Open Source Web Builder Framework
+- [GraphQL Designer](https://github.com/GraphQL-Designer/graphqldesigner.com): A developer web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 
 ## Conversion
 
@@ -239,6 +240,7 @@ not just shows an embedded preview
 - [Lazyestload](https://github.com/Paul-Browne/lazyestload.js): load images only when they are in (and remain in) the viewport
 - [Tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript
 - [Sal](https://github.com/mciastek/sal): Performance focused, lightweight scroll animation library
+- [Teutonic CSS](https://github.com/fortrabbit/teutonic-css): A modern CSS framework — versatile, well documented
 
 ## Hosting
 
