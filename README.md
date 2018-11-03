@@ -12,6 +12,8 @@ description: 'Curated list of resources for design, development and process in t
 - [CodePen](http://codepen.io/): Playground for the front end side of the web
 - [Blockbuilder](http://blockbuilder.org/): Make it easier for you to make [blocks](http://bl.ocks.org/)
 - [StackBlitz](https://stackblitz.com/): The online IDE for web applications. Powered by VS Code.
+- [Web Maker](https://github.com/chinchang/web-maker/): an offline playground for your web experiments
+- [Nodebook](https://github.com/netgusto/nodebook): Multi-Language REPL with Web UI + CLI code runner
 
 ## SVG
 
@@ -76,6 +78,8 @@ description: 'Curated list of resources for design, development and process in t
 - [Strapi](https://strapi.io/): Node.js Content Management Framework (headless-CMS) to build API
 - [static api generator](https://github.com/eduardoboucas/static-api-generator): Generate a static JSON API from a tree of directories and files
 - [Daptin](https://github.com/daptin/daptin): A developer oriented CMS
+- [https://github.com/typicode/json-server](JSON Server): Get a full fake REST API with zero coding in less than 30 seconds
+- [GrapesJs](https://github.com/artf/grapesjs): Free and Open Source Web Builder Framework
 
 ## Conversion
 
@@ -229,6 +233,7 @@ not just shows an embedded preview
 - [Luxon](https://github.com/moment/luxon): A library for working with dates and times in JS
 - [ArchieML Preview](https://gsuite.google.com/marketplace/app/archieml/989202173200): This addon assists in using Google Docs as an editor for a human-friendly markup language called "ArchieML."
 - [enter-view](https://github.com/russellgoldenberg/enter-view): Dependency-free JavaScript library to detect when element enters into view. It uses requestAnimationFrame in favor of scroll events for less jank.
+- [Lazyestload](https://github.com/Paul-Browne/lazyestload.js): load images only when they are in (and remain in) the viewport
 
 ## Hosting
 
