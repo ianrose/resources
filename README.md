@@ -83,6 +83,7 @@ description: 'Curated list of resources for design, development and process in t
 - [https://github.com/typicode/json-server](JSON Server): Get a full fake REST API with zero coding in less than 30 seconds
 - [GrapesJs](https://github.com/artf/grapesjs): Free and Open Source Web Builder Framework
 - [GraphQL Designer](https://github.com/GraphQL-Designer/graphqldesigner.com): A developer web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
+- [Vapid](https://www.vapid.com/): an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML
 
 ## Conversion
 
