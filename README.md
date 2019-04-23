@@ -140,7 +140,8 @@ description: 'Curated list of resources for design, development and process in t
 - [Spectral](https://fonts.google.com/specimen/Spectral): Spectral is a new and versatile serif face available in seven weights of roman and italic, with small caps.
 - [Spark](https://github.com/aftertheflood/spark): a typeface for creating sparklines in text
 - [Inter UI](https://rsms.me/inter/): a typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
-- [Optician Sans](https://optician-sans.com): A free font based on the historical eye charts and optotypes used by opticians world wide. 
+- [Optician Sans](https://optician-sans.com): A free font based on the historical eye charts and optotypes used by opticians world wide.
+- [Trispace](https://www.etc.supply/trispace/): a free variable font that is available in nine weights and five widths.
 
 ## Color Theory
 
