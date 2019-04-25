@@ -209,6 +209,7 @@ description: 'Curated list of resources for design, development and process in t
 - [Visualization Universe](http://visualizationuniverse.com/): What types of visualization do we search for and why?
 What tools and books influence our decisions?
 - [Ikonate](https://www.ikonate.com/): fully customisable & accessible*, well-optimised vector icons.
+- [Ouch](https://icons8.com/ouch): Free illustrations to class up your project
 
 ## Utilities
 
