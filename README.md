@@ -250,6 +250,8 @@ not just shows an embedded preview
 - [Teutonic CSS](https://github.com/fortrabbit/teutonic-css): A modern CSS framework — versatile, well documented
 - [Destyle.css](https://nicolas-cusan.github.io/destyle.css/): Opinionated reset stylesheet that provides a clean slate for styling your html.
 - [Laxxx.js](https://github.com/alexfoxy/laxxx): Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scroll.
+- [Unpoly.js](https://unpoly.com/): The unobtrusive JavaScript framework for server-side web applications.
+
 ## Hosting
 
 - [Stout](https://github.com/EagerIO/Stout): It takes a website and uploads it to S3 in a more reliable way than other tools.
