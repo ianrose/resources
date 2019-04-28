@@ -252,6 +252,7 @@ not just shows an embedded preview
 - [Destyle.css](https://nicolas-cusan.github.io/destyle.css/): Opinionated reset stylesheet that provides a clean slate for styling your html.
 - [Laxxx.js](https://github.com/alexfoxy/laxxx): Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scroll.
 - [Unpoly.js](https://unpoly.com/): The unobtrusive JavaScript framework for server-side web applications.
+- [Cloudquery](https://github.com/t9tio/cloudquery): Turn any website to API by several clicks (serverless and support SPA!)
 
 ## Hosting
 
