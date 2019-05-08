@@ -259,6 +259,7 @@ not just shows an embedded preview
 - [Stout](https://github.com/EagerIO/Stout): It takes a website and uploads it to S3 in a more reliable way than other tools.
 - [Netlify](https://www.netlify.com/): CDN, Continuous deployment, 1 click HTTPS, and all the services you need.
 - [Staticland](https://static.land/): Static sites with free, automatic SSL for custom domains.
+- [1mb](https://1mb.site/): a free website host designed to make web development feel more approachable.
 
 ## Email
 
