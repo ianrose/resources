@@ -112,6 +112,7 @@ description: 'Curated list of resources for design, development and process in t
 - [two.js](https://two.js.org/): library for two-dimensional drawing in modern browsers, rendering to SVG, canvas, and WebGL
 - [paper.js](http://paperjs.org/): framework for rendering vector graphics to canvas
 - [FAT.js](https://github.com/nextapps-de/fat): Web's fastest and most lightweight animation tool.
+- [Zdog](https://zzz.dog): Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
 
 ## Datasets
 
