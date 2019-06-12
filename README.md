@@ -261,6 +261,7 @@ not just shows an embedded preview
 - [Netlify](https://www.netlify.com/): CDN, Continuous deployment, 1 click HTTPS, and all the services you need.
 - [Staticland](https://static.land/): Static sites with free, automatic SSL for custom domains.
 - [1mb](https://1mb.site/): a free website host designed to make web development feel more approachable.
+- [Render](https://render.com): Render is a unified platform to build and run all your apps and websites with free SSL, a global CDN, and auto deploys from GitHub.
 
 ## Email
 
