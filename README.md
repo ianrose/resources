@@ -265,7 +265,8 @@ not just shows an embedded preview
 - [Remix Icon](https://remixicon.com): a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - [Stencil](https://stenciljs.com): is a toolchain for building reusable, scalable Design Systems.
 - [Zero Server](https://github.com/remoteinterview/zero): a web framework to simplify modern web development.
-- [Editor.js](https://editorjs.io): Next generation block styled editor. 
+- [Editor.js](https://editorjs.io): Next generation block styled editor.
+- [Lazyload](https://github.com/verlok/lazyload): a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport.
 
 ## Hosting
 
