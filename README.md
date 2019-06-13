@@ -276,6 +276,7 @@ not just shows an embedded preview
 ## Database
 
 - [Rxdb](https://github.com/pubkey/rxdb): A realtime Database for JavaScript Applications.
+- [AlaSQL](https://github.com/agershun/alasql): JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel. 
 
 ## Email
 
