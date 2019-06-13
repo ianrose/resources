@@ -88,6 +88,7 @@ description: 'Curated list of resources for design, development and process'
 - [Vapid](https://www.vapid.com/): an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML
 - [Sheety](https://sheety.co/): Turn any Google sheet into an API instantly, for free.
 - [Stein](https://github.com/SteinHQ/Stein):  Kick off projects, design custom Google Forms, and manage your content in a familiar interface. Power your project with the fully open source Stein.
+- [npoint](https://github.com/azirbel/npoint): Set up a lightweight JSON endpoint in seconds, then add a schema to edit your data safely at any time
 
 ## Conversion
 
