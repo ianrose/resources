@@ -263,6 +263,7 @@ not just shows an embedded preview
 - [Unpoly.js](https://unpoly.com/): The unobtrusive JavaScript framework for server-side web applications.
 - [Cloudquery](https://github.com/t9tio/cloudquery): Turn any website to API by several clicks (serverless and support SPA!)
 - [Remix Icon](https://remixicon.com): a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+- [Stencil](https://stenciljs.com): is a toolchain for building reusable, scalable Design Systems. 
 
 ## Hosting
 
@@ -273,6 +274,7 @@ not just shows an embedded preview
 - [Render](https://render.com): Render is a unified platform to build and run all your apps and websites with free SSL, a global CDN, and auto deploys from GitHub.
 
 ## Database
+
 - [Rxdb](https://github.com/pubkey/rxdb): A realtime Database for JavaScript Applications.
 
 ## Email
