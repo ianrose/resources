@@ -170,6 +170,7 @@ description: 'Curated list of resources for design, development and process'
 
 - [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/): A client-side script that checks HTML source code and detects violations of a defined coding standard
 - [tota11y](https://khan.github.io/tota11y/): an accessibility visualization toolkit
+- [Lighthouse Budget Calculator](https://perf-budget-calculator.firebaseapp.com): A budget.json file can be used with the Lighthouse CLI to set performance budgets.
 
 ## Templates
 
@@ -261,7 +262,6 @@ not just shows an embedded preview
 - [Laxxx.js](https://github.com/alexfoxy/laxxx): Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scroll.
 - [Unpoly.js](https://unpoly.com/): The unobtrusive JavaScript framework for server-side web applications.
 - [Cloudquery](https://github.com/t9tio/cloudquery): Turn any website to API by several clicks (serverless and support SPA!)
-- [Lighthouse Budget Calculator](https://perf-budget-calculator.firebaseapp.com): A budget.json file can be used with the Lighthouse CLI to set performance budgets.
 - [Remix Icon](https://remixicon.com): a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 
 ## Hosting
