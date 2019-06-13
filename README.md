@@ -85,6 +85,7 @@ description: 'Curated list of resources for design, development and process in t
 - [GraphQL Designer](https://github.com/GraphQL-Designer/graphqldesigner.com): A developer web-app tool to rapidly prototype a full stack CRUD implementation of GraphQL with React.
 - [Vapid](https://www.vapid.com/): an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML
 - [Sheety](https://sheety.co/): Turn any Google sheet into an API instantly, for free.
+- [Stein](https://github.com/SteinHQ/Stein):  Kick off projects, design custom Google Forms, and manage your content in a familiar interface. Power your project with the fully open source Stein.
 
 ## Conversion
 
