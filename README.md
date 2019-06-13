@@ -258,6 +258,7 @@ not just shows an embedded preview
 - [Unpoly.js](https://unpoly.com/): The unobtrusive JavaScript framework for server-side web applications.
 - [Cloudquery](https://github.com/t9tio/cloudquery): Turn any website to API by several clicks (serverless and support SPA!)
 - [Lighthouse Budget Calculator](https://perf-budget-calculator.firebaseapp.com): A budget.json file can be used with the Lighthouse CLI to set performance budgets.
+- [Remix Icon](https://remixicon.com): a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 
 ## Hosting
 
