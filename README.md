@@ -54,7 +54,8 @@ description: 'Curated list of resources for design, development and process in t
 
 - [Gravit Designer](https://designer.io/): Free powerful design tool on any platform
 - [Solis](https://solisapp.com): Live Design Output that integrates seamlessly with your favourite code editor.
-- [Modulz](https://www.modulz.app): The visual code editor for designing and building digital products—without writing code
+- [Modulz](https://www.modulz.app): The visual code editor for designing and building digital products—without writing code.
+- [Data Populator](https://www.datapopulator.com): A plugin for Sketch and Adobe XD CC to populate your design mockups with meaningful data. 
 
 ## Charting
 
