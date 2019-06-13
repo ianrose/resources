@@ -214,6 +214,7 @@ What tools and books influence our decisions?
 - [Ikonate](https://www.ikonate.com/): fully customisable & accessible*, well-optimised vector icons.
 - [Ouch](https://icons8.com/ouch): Free illustrations to class up your project
 - [Programming Design Systems](https://www.programmingdesignsystems.com): A free digital book that teaches a practical introduction to the new foundations of graphic design.
+- [A Visual Reference For D3](https://redixhumayun.github.io/visualization/2019/06/08/a-visual-reference-for-d3.html): a visual representation of my understanding of D3 after working with it for a while now.
 
 ## Utilities
 
