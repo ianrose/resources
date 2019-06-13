@@ -3,7 +3,7 @@ title: List of Resources
 autotoc: true
 published: true
 layout: list
-description: 'Curated list of resources for design, development and process in the newsroom.'
+description: 'Curated list of resources for design, development and process'
 ---
 
 ## Code Editors
@@ -269,6 +269,9 @@ not just shows an embedded preview
 - [Staticland](https://static.land/): Static sites with free, automatic SSL for custom domains.
 - [1mb](https://1mb.site/): a free website host designed to make web development feel more approachable.
 - [Render](https://render.com): Render is a unified platform to build and run all your apps and websites with free SSL, a global CDN, and auto deploys from GitHub.
+
+## Database
+- [Rxdb](https://github.com/pubkey/rxdb): A realtime Database for JavaScript Applications.
 
 ## Email
 
