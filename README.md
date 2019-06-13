@@ -263,7 +263,8 @@ not just shows an embedded preview
 - [Unpoly.js](https://unpoly.com/): The unobtrusive JavaScript framework for server-side web applications.
 - [Cloudquery](https://github.com/t9tio/cloudquery): Turn any website to API by several clicks (serverless and support SPA!)
 - [Remix Icon](https://remixicon.com): a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
-- [Stencil](https://stenciljs.com): is a toolchain for building reusable, scalable Design Systems. 
+- [Stencil](https://stenciljs.com): is a toolchain for building reusable, scalable Design Systems.
+- [Zero Server](https://github.com/remoteinterview/zero): a web framework to simplify modern web development.
 
 ## Hosting
 
