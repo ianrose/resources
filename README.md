@@ -287,6 +287,11 @@ not just shows an embedded preview
 - [Buttondown](https://buttondown.email/): The easiest way to start and grow your newsletter.
 - [Tinyletter](https://tinyletter.com/): TinyLetter is a personal newsletter service brought to you by the people behind MailChimp
 
+## Version Control
+
+- [Fork](https://git-fork.com/): a fast and friendly git client for Mac and Windows
+- [Kactus](https://kactus.io/): design version control without changing your tools. Manage changes, document work and keep your team in sync
+
 ## Lists
 
 - [The New School's Journalism Design](https://trello.com/b/L7M9gril/journalism-design-resources): Journalism and design resources
