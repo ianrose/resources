@@ -172,6 +172,7 @@ description: 'Curated list of resources for design, development and process'
 - [HTML Code Sniffer](http://squizlabs.github.io/HTML_CodeSniffer/): A client-side script that checks HTML source code and detects violations of a defined coding standard
 - [tota11y](https://khan.github.io/tota11y/): an accessibility visualization toolkit
 - [Lighthouse Budget Calculator](https://perf-budget-calculator.firebaseapp.com): A budget.json file can be used with the Lighthouse CLI to set performance budgets.
+- [Emmet Re:view](http://re-view.emmet.io/): A browser extension for displaying responsive web-pages in a side-by-side views to quickly test how it looks at different resolutions and devices.
 
 ## Templates
 
