@@ -16,6 +16,7 @@ description: 'Curated list of resources for design, development and process'
 - [Nodebook](https://github.com/netgusto/nodebook): Multi-Language REPL with Web UI + CLI code runner
 - [Graviton](https://github.com/Graviton-Code-Editor/Graviton-App): A cross-platform code editor.
 - [CodeSandbox](https://codesandbox.io/s/): an online editor that helps you create web applications, from prototype to deployment.
+- [Electron Fiddle](https://electronjs.org/fiddle): lets you create and play with small Electron experiments.
 
 ## SVG
 
@@ -57,7 +58,9 @@ description: 'Curated list of resources for design, development and process'
 - [Gravit Designer](https://designer.io/): Free powerful design tool on any platform
 - [Solis](https://solisapp.com): Live Design Output that integrates seamlessly with your favourite code editor.
 - [Modulz](https://www.modulz.app): The visual code editor for designing and building digital products—without writing code.
-- [Data Populator](https://www.datapopulator.com): A plugin for Sketch and Adobe XD CC to populate your design mockups with meaningful data. 
+- [Data Populator](https://www.datapopulator.com): A plugin for Sketch and Adobe XD CC to populate your design mockups with meaningful data.
+- [Tumult Hype](https://tumult.com/hype/infographics/): Powerful HTML5 animation capabilities.
+Create compelling, pixel-perfect infographics quickly. 
 
 ## Charting
 
@@ -90,6 +93,7 @@ description: 'Curated list of resources for design, development and process'
 - [Sheety](https://sheety.co/): Turn any Google sheet into an API instantly, for free.
 - [Stein](https://github.com/SteinHQ/Stein):  Kick off projects, design custom Google Forms, and manage your content in a familiar interface. Power your project with the fully open source Stein.
 - [npoint](https://github.com/azirbel/npoint): Set up a lightweight JSON endpoint in seconds, then add a schema to edit your data safely at any time
+- [Autoserver](https://github.com/ehmicky/autoserver): Create a full-featured REST/GraphQL API from a configuration file.
 
 ## Conversion
 
@@ -270,6 +274,7 @@ not just shows an embedded preview
 - [Zero Server](https://github.com/remoteinterview/zero): a web framework to simplify modern web development.
 - [Editor.js](https://editorjs.io): Next generation block styled editor.
 - [Lazyload](https://github.com/verlok/lazyload): a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport.
+- [light-server](https://github.com/txchen/light-server): A lightweight cli static http server and it can watch files, execute commands and trigger livereload
 
 ## Hosting
 
