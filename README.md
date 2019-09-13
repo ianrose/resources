@@ -275,6 +275,7 @@ not just shows an embedded preview
 - [Editor.js](https://editorjs.io): Next generation block styled editor.
 - [Lazyload](https://github.com/verlok/lazyload): a fast, lightweight and flexible script that speeds up your web application by loading your content images, videos and iframes only as they enter the viewport.
 - [light-server](https://github.com/txchen/light-server): A lightweight cli static http server and it can watch files, execute commands and trigger livereload
+- [Collect.js](https://collect.js.org/): Convenient and dependency free wrapper for working with arrays and objects.
 
 ## Hosting
 
