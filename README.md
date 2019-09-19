@@ -313,5 +313,8 @@ not just shows an embedded preview
 - [Newsroom.Tools](http://newsroom.tools/): Explore our curated digital toolbox built by journalists, for journalists
 - [D3 Discovery](https://d3-discovery.net/): finding D3 plugins with ease
 
+## Analytics
+- [Ackee](https://ackee.electerious.com/): Self-hosted, Node.js based analytics tool
+
 ## Contribute
 If you want to add to this list please make a pull request: [GitHub Source](https://github.com/ianrose/resources)
