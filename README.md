@@ -26,6 +26,7 @@ description: 'Curated list of resources for design, development and process'
 - [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other. It implements Material Design's Delightful Details transitions.
 - [xvg](https://xvg.now.sh/): A Chrome extension for debugging SVG paths by converting them to outlines and displaying anchors, control points, handles and arc ellipses.
 - [Sketch Interactive Export](https://github.com/mathisonian/sketch-interactive-export): plugin to make it easy to use JavaScript to add interactivity to SVGs exported from sketch.
+- [SVG.js](https://svgjs.com/docs/2.7/): A lightweight library for manipulating and animating SVG
 
 ## Mapping
 
