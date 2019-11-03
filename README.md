@@ -155,6 +155,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Optician Sans](https://optician-sans.com): A free font based on the historical eye charts and optotypes used by opticians world wide.
 - [Trispace](https://www.etc.supply/trispace/): a free variable font that is available in nine weights and five widths.
 - [The Best Contemporary Free Fonts](https://www.behance.net/gallery/70151099/The-Best-Contemporary-Free-Fonts): a subjective curated selection of contemporary free fonts.
+- [Font Pair](https://fontpair.co/): a typography site dedicated to helping creators use beautiful typography for their creative projects.
 
 ## Color Theory
 
