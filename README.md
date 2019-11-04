@@ -113,6 +113,13 @@ Create compelling, pixel-perfect infographics quickly.
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js): is a customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 - [Kap](https://github.com/wulkano/kap): An open-source screen recorder built with web technology
 - [howler.js ](https://howlerjs.com/): makes working with audio in JavaScript easy and reliable across all platforms
+- [Soundkit](https://soundkit.io/): a UI sound library designed for all of your interface needs.
+- [Appsounds Pro](https://appsounds.pro/): sound packs for apps, games or any other digital products.
+- [RCP Tones](https://rcptones.com/dev_tones/): UI and Menu sounds for your app.
+- [Sonics](https://gumroad.com/l/sonics): a sound library of 175 UI sounds and sound effects
+- [8ve](http://raisedbeaches.com/octave/): Octave - A free library of UI sounds, handmade for iOS.
+- [Facebook Sound Kit](https://facebook.design/soundkit): A collection of interaction sounds for prototypes.
+
 
 ## Animation
 
