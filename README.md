@@ -53,6 +53,7 @@ description: 'Curated list of resources for design, development and process'
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas): pre-built TopoJSON from Natural Earth
 - [U.S. Atlas TopoJSON](https://github.com/topojson/us-atlas): pre-built TopoJSON from Natural Earth
 - [Ogre](http://ogre.adc4gis.com/): a web client (service) that translates spatial files into GeoJSON using the ogr2ogr command line tool for use in JavaScript web applications and frameworks
+- [Geo Code Zip](http://www.geocodezip.com): Maps and their API examples, using OpenLayers API/OpenStreetMaps and Google Maps
 
 ## Design
 
@@ -130,6 +131,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [paper.js](http://paperjs.org/): framework for rendering vector graphics to canvas
 - [FAT.js](https://github.com/nextapps-de/fat): Web's fastest and most lightweight animation tool.
 - [Zdog](https://zzz.dog): Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
+- [Anix](https://a-jie.github.io/AniX/): is a lightweight and easy-to-use animation library with excellent performance and good compatibility for modern browsers.
 
 ## Datasets
 
@@ -236,6 +238,8 @@ What tools and books influence our decisions?
 - [Programming Design Systems](https://www.programmingdesignsystems.com): A free digital book that teaches a practical introduction to the new foundations of graphic design.
 - [A Visual Reference For D3](https://redixhumayun.github.io/visualization/2019/06/08/a-visual-reference-for-d3.html): a visual representation of my understanding of D3.
 - [Mixkit Art](https://mixkit.co/art/): art & illustration for you to use, completely free of charge.
+- [Glaze](https://www.glazestock.com/browse/): Memorable products, brands, & presentations start with our
+curated royalty-free illustration library
 
 ## Utilities
 
@@ -286,6 +290,8 @@ not just shows an embedded preview
 - [light-server](https://github.com/txchen/light-server): A lightweight cli static http server and it can watch files, execute commands and trigger livereload
 - [Collect.js](https://collect.js.org/): Convenient and dependency free wrapper for working with arrays and objects.
 - [Raster Grid](https://rsms.me/raster/): Minimal and straight-forward CSS grid system utilizing descriptive HTML rather than semantic CSS.
+- [Modern CSS Reset](https://github.com/hankchizljaw/modern-css-reset): A bare-bones CSS reset for modern web development.
+- [Line Awesome](https://icons8.com/line-awesome): Swap Font Awesome for modern line icons in one line of code.
 
 ## Hosting
 
@@ -309,6 +315,8 @@ not just shows an embedded preview
 
 - [Fork](https://git-fork.com/): a fast and friendly git client for Mac and Windows
 - [Kactus](https://kactus.io/): design version control without changing your tools. Manage changes, document work and keep your team in sync
+- [Get Git](https://getgit.co): Just pay $15 once. We’ll set up your own private Gitea installation with everything you need.
+- [Auto](https://intuit.github.io/auto/home.html): CLI tools to help facilitate semantic versioning based on GitHub PR labels
 
 ## Lists
 
@@ -325,6 +333,7 @@ not just shows an embedded preview
 
 ## Analytics
 - [Ackee](https://ackee.electerious.com/): Self-hosted, Node.js based analytics tool
+- [Insights](https://getinsights.io):Privacy-Focused Analytics Platform.
 
 ## Contribute
 If you want to add to this list please make a pull request: [GitHub Source](https://github.com/ianrose/resources)
