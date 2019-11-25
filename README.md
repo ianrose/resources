@@ -176,6 +176,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Data Color Picker](https://learnui.design/tools/data-color-picker.html): create a series of colors that are visually equidistant
 - [Color Oracle](http://colororacle.org/index.html): a free color blindness simulator for Windows, Mac and Linux
 - [Colorbox](https://www.colorbox.io): color systems for accessible UIs that scale
+- [Copy Palette](https://copypalette.app/): generate a consistent monochromatic color palette
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
