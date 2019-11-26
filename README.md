@@ -241,6 +241,7 @@ What tools and books influence our decisions?
 - [Mixkit Art](https://mixkit.co/art/): art & illustration for you to use, completely free of charge.
 - [Glaze](https://www.glazestock.com/browse/): Memorable products, brands, & presentations start with our
 curated royalty-free illustration library
+- [Illustrations](https://illlustrations.co/): Open source illustrations kit
 
 ## Utilities
 
