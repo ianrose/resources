@@ -336,6 +336,8 @@ not just shows an embedded preview
 ## Analytics
 - [Ackee](https://ackee.electerious.com/): Self-hosted, Node.js based analytics tool
 - [Insights](https://getinsights.io):Privacy-Focused Analytics Platform.
+- [Fathom](https://usefathom.com/): a simple yet powerful website analytics platform.
+- [Ackee](https://ackee.electerious.com/): Self-hosted, Node.js based analytics tool for those who care about privacy
 
 ## Contribute
 If you want to add to this list please make a pull request: [GitHub Source](https://github.com/ianrose/resources)
