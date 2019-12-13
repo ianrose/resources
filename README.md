@@ -96,6 +96,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Stein](https://github.com/SteinHQ/Stein):  Kick off projects, design custom Google Forms, and manage your content in a familiar interface. Power your project with the fully open source Stein.
 - [npoint](https://github.com/azirbel/npoint): Set up a lightweight JSON endpoint in seconds, then add a schema to edit your data safely at any time
 - [Autoserver](https://github.com/ehmicky/autoserver): Create a full-featured REST/GraphQL API from a configuration file.
+- [Automad](https://automad.org): Automad is a flat-file content management system and template engine.
 
 ## Conversion
 
