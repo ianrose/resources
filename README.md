@@ -177,6 +177,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Color Oracle](http://colororacle.org/index.html): a free color blindness simulator for Windows, Mac and Linux
 - [Colorbox](https://www.colorbox.io): color systems for accessible UIs that scale
 - [Copy Palette](https://copypalette.app/): generate a consistent monochromatic color palette
+- [Leonardro Color](https://leonardocolor.io): Create beautiful, accessible, and adaptive color systems using contrast-ratio based generated colors.
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
