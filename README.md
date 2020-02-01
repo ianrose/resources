@@ -140,6 +140,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Data Portals](http://dataportals.org/): A Comprehensive List of Open Data Portals from Around the World
 - [Data Ipsum](http://datumipsum.com/): Realistic placeholder data generator
 - [Draw My Data](http://www.robertgrantstats.co.uk/drawmydata.html): Just click in the scatter plot below to add point
+- [ExtendsClass](https://extendsclass.com/json-generator.html): A random JSON Data Generator
 - [Google Trends](http://googletrends.github.io/data/): Download and play with key datasets from Google Trends
 - [NICAR Data Library](http://ire.org/nicar/database-library/): The following is a list of databases maintained by NICAR.
 - [ProPublica Data Store](https://www.propublica.org/datastore/): Browse data sets about Health, Criminal Justice, Education, Politics, Business, Transportation, or Military.
