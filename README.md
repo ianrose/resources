@@ -141,7 +141,6 @@ Create compelling, pixel-perfect infographics quickly.
 - [ProPublica Data Store](https://www.propublica.org/datastore/): Browse data sets about Health, Criminal Justice, Education, Politics, Business, Transportation, or Military.
 - [Enigma](http://enigma.io/): Enigma puts private and public data to work to solve the world's most challenging operational problems.
 - [The Dataverse Project](http://dataverse.org/): Open source research data repository software
-- [Lists](http://lists.design/): A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content.
 - [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets#climate): a curated list of awesome JSON datasets that don't require authentication
 
 ## Typography
