@@ -129,7 +129,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [paper.js](http://paperjs.org/): framework for rendering vector graphics to canvas
 - [FAT.js](https://github.com/nextapps-de/fat): Web's fastest and most lightweight animation tool.
 - [Zdog](https://zzz.dog): Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
-- [Anix](https://a-jie.github.io/AniX/): is a lightweight and easy-to-use animation library with excellent performance and good compatibility for modern browsers.
+- [Anix](https://github.com/drawcall/AniX): is a lightweight and easy-to-use animation library with excellent performance and good compatibility for modern browsers.
 
 ## Datasets
 
