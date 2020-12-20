@@ -117,7 +117,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [RCP Tones](https://rcptones.com/dev_tones/): UI and Menu sounds for your app.
 - [Sonics](https://gumroad.com/l/sonics): a sound library of 175 UI sounds and sound effects
 - [8ve](http://raisedbeaches.com/octave/): Octave - A free library of UI sounds, handmade for iOS.
-- [Facebook Sound Kit](https://facebook.design/soundkit): A collection of interaction sounds for prototypes.
+- [Facebook Sound Kit](https://design.facebook.com/toolsandresources/sound-kit-for-prototypes/): A collection of interaction sounds for prototypes.
 
 
 ## Animation
