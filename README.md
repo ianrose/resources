@@ -138,7 +138,6 @@ Create compelling, pixel-perfect infographics quickly.
 - [Data Ipsum](http://datumipsum.com/): Realistic placeholder data generator
 - [Draw My Data](http://www.robertgrantstats.co.uk/drawmydata.html): Just click in the scatter plot below to add point
 - [Google Trends](http://googletrends.github.io/data/): Download and play with key datasets from Google Trends
-- [NICAR Data Library](http://ire.org/nicar/database-library/): The following is a list of databases maintained by NICAR.
 - [ProPublica Data Store](https://www.propublica.org/datastore/): Browse data sets about Health, Criminal Justice, Education, Politics, Business, Transportation, or Military.
 - [Enigma](http://enigma.io/): Enigma puts private and public data to work to solve the world's most challenging operational problems.
 - [The Dataverse Project](http://dataverse.org/): Open source research data repository software
