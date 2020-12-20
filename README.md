@@ -314,7 +314,7 @@ not just shows an embedded preview
 - [Fork](https://git-fork.com/): a fast and friendly git client for Mac and Windows
 - [Kactus](https://kactus.io/): design version control without changing your tools. Manage changes, document work and keep your team in sync
 - [Get Git](https://getgit.co): Just pay $15 once. We’ll set up your own private Gitea installation with everything you need.
-- [Auto](https://intuit.github.io/auto/home.html): CLI tools to help facilitate semantic versioning based on GitHub PR labels
+- [Auto](https://intuit.github.io/auto/): CLI tools to help facilitate semantic versioning based on GitHub PR labels
 
 ## Lists
 
