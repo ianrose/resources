@@ -195,7 +195,6 @@ Create compelling, pixel-perfect infographics quickly.
 ## Bots
 
 - [BotKit](https://howdy.ai/botkit/): Open-source toolkit for creating bots for messaging platforms
-- [ChatFuel](https://chatfuel.com/): Build a Facebook bot without coding
 
 ## UX
 
