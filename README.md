@@ -101,7 +101,6 @@ Create compelling, pixel-perfect infographics quickly.
 
 - [Browserling Dev Tools](https://www.browserling.com/tools): A collection of the most popular developer tools all in one place
 - [HTML Compress](http://www.textfixer.com/html/compress-html-compression.php): This online HTML compression tool will save space in your HTML files
-- [JSON Escape](http://bernhardhaeussner.de/odd/json-escape/): Escape for JSON and Javascript online tool
 - [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/): convert your Excel data into one of several web-friendly formats, including HTML, JSON and XML
 - [OpenRefine](http://openrefine.org): is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
 
