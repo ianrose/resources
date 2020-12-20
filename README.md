@@ -36,7 +36,7 @@ description: 'Curated list of resources for design, development and process'
 - [Awesome Base Layers](http://felix.rohrba.ch/en/2016/awesome-basemap-layer-for-your-qgis-project/#google)
 - [Locator](https://github.com/datanews/locator): A customizable, in-browser [locator map](https://en.wikipedia.org/wiki/Locator_map) creator.
 - [Mapshaper](http://mapshaper.org/): Tools for editing Shapefile, GeoJSON and TopoJSON files
-- [Datamaps.co](https://datamaps.co/): A free and simple platform for creating visualizations with data maps
+- [Datamaps.world](https://datamaps.world/): A free and simple platform for creating visualizations with data maps
 - [Mapinseconds](http://mapinseconds.com/): Turns your spreadsheet data into maps
 - [geojson.io](http://geojson.io/): a quick, simple tool for creating, viewing, and sharing maps.
 - [SRTM 90m Digital Elevation Data](http://srtm.csi.cgiar.org/): The CGIAR-CSI GeoPortal is able to provide SRTM 90m Digital Elevation Data for the entire world.
