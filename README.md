@@ -178,7 +178,6 @@ Create compelling, pixel-perfect infographics quickly.
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
 - [JSDelivr](https://www.jsdelivr.com/): The advanced open source public CDN
-- [RawGit](https://rawgit.com/): Serves raw files directly from GitHub with proper Content-Type headers.
 - [Pika](https://www.pika.dev/cdn): CDN was built to serve the 60,000+ npm packages written in ES Module (ESM) syntax.
 
 ## Testing
