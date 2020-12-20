@@ -108,7 +108,6 @@ Create compelling, pixel-perfect infographics quickly.
 
 - [Soundcite](https://soundcite.knightlab.com/): Inline audio players
 - [AutoEdit](https://github.com/OpenNewsLabs/autoEdit_2): Text Based Video Editing, node NWJS Os X desktop app, with Backbone front end.
-- [Convert to Webm](http://www.bugcodemaster.com/article/convert-videos-webm-format-using-ffmpeg): How to convert any video into webm format using libvpx with vp8 codec for video
 - [Handbrake](https://handbrake.fr/): is a tool for converting video from nearly any format to a selection of modern, widely supported codecs
 - [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js): is a customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 - [Kap](https://github.com/wulkano/kap): An open-source screen recorder built with web technology
