@@ -326,7 +326,6 @@ not just shows an embedded preview
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism): A list of awesome interactive journalism projects
 - [markapp](http://markapp.io/): The goal of this site is to collect and promote JS libraries that can be used without writing any JS.
 - [lists.design](http://lists.design/): A gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. Want to design with real data ? There's a list for that.
-- [Newsroom.Tools](http://newsroom.tools/): Explore our curated digital toolbox built by journalists, for journalists
 - [D3 Discovery](https://d3-discovery.net/): finding D3 plugins with ease
 
 ## Analytics
