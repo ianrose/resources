@@ -76,7 +76,6 @@ Create compelling, pixel-perfect infographics quickly.
 - [Billboard.js](https://naver.github.io/billboard.js/): Re-usable easy interface JavaScript chart library, based on D3 v4+.
 - [idyll](https://idyll-lang.github.io/): a tool that makes it easier to author interactive narratives for the web
 - [Frappé Charts](https://github.com/frappe/charts): Simple, responsive, modern SVG Charts with zero dependencies
-- [d3 workbench](https://github.com/BastiTee/d3-workbench): a d3.js-powered workbench for rapid visualization prototyping
 - [Data Illustrator](http://www.data-illustrator.com/): Create infographics and data visualizations without programming.
 - [Muze](https://github.com/chartshq/muze): Muze is a data visualization library which uses a layered Grammar of Graphics (GoG) to create composable and interactive data visualization for web
 
