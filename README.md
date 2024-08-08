@@ -164,6 +164,8 @@ Create compelling, pixel-perfect infographics quickly.
 
 ## Color Theory
 
+- [Gradient Generator](https://learnui.design/tools/gradient-generator.html): create linear/radial/conic gradients across 8 different color spaces. 1-click export to CSS or SVG.
+- [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html): make any color meet color contrast guidelines
 - [Color.hailpixel](http://color.hailpixel.com/): An easy way to create and share color palettes with just a swipe of your finger.
 - [Awesome-list Colorful](https://github.com/Siddharth11/Colorful): A curated list of awesome resources to choose your next color scheme
 - [Palettable](http://www.palettable.io/): Generate beautiful color palettes, even with no prior design knowledge
