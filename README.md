@@ -161,6 +161,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Trispace](https://www.etceteratype.co/trispace): a free variable font that is available in nine weights and five widths.
 - [The Best Contemporary Free Fonts](https://www.behance.net/gallery/70151099/The-Best-Contemporary-Free-Fonts): a subjective curated selection of contemporary free fonts.
 - [Font Pair](https://fontpair.co/): a typography site dedicated to helping creators use beautiful typography for their creative projects.
+- [Banner Font Size Tool](https://www.uprinting.com/banner-font-sizes.html): Our tool to help you gauge font size and distance
 
 ## Color Theory
 
