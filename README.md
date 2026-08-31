@@ -174,6 +174,7 @@ Create compelling, pixel-perfect infographics quickly.
 - [Colorbox](https://www.colorbox.io): color systems for accessible UIs that scale
 - [Copy Palette](https://copypalette.app/): generate a consistent monochromatic color palette
 - [Leonardro Color](https://leonardocolor.io): Create beautiful, accessible, and adaptive color systems using contrast-ratio based generated colors.
+- [Image Color Picker](https://image-color.com/): Image color picker and palette generator
 
 ## CDNs
 - [CDNjs](https://cdnjs.com/): Will host any production version of any JavaScript/CSS library, subject to license permissions.
