@@ -237,6 +237,7 @@ What tools and books influence our decisions?
 - [Glaze](https://www.glazestock.com/browse/): Memorable products, brands, & presentations start with our
 curated royalty-free illustration library
 - [Illustrations](https://illlustrations.co/): Open source illustrations kit
+- [6 Best Practices to Manage Pull Request Creation and Feedback](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/): Pull request best practices
 
 ## Utilities
 
